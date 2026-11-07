@@ -11,13 +11,13 @@ find_package(ament_cmake REQUIRED)
 # further dependencies manually.
 # find_package(<dependency> REQUIRED)
 
-add_executable(jA src/jA.cpp)
-target_include_directories(jA PUBLIC
+add_executable(monitoring src/monitoring.cpp)
+target_include_directories(monitoring PUBLIC
   $<BUILD_INTERFACE:${CMAKE_CURRENT_SOURCE_DIR}/include>
   $<INSTALL_INTERFACE:include/${PROJECT_NAME}>)
-target_compile_features(jA PUBLIC c_std_99 cxx_std_17)  # Require C99 and C++17
+target_compile_features(monitoring PUBLIC c_std_99 cxx_std_17)  # Require C99 and C++17
 
-install(TARGETS jA
+install(TARGETS monitoring
   DESTINATION lib/${PROJECT_NAME})
 
 if(BUILD_TESTING)
