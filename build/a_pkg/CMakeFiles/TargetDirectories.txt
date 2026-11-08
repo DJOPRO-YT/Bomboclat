@@ -1,0 +1,10 @@
+/home/djo/Bomboclat/build/a_pkg/CMakeFiles/uninstall.dir
+/home/djo/Bomboclat/build/a_pkg/CMakeFiles/a_pkg_uninstall.dir
+/home/djo/Bomboclat/build/a_pkg/CMakeFiles/monitoring.dir
+/home/djo/Bomboclat/build/a_pkg/CMakeFiles/test.dir
+/home/djo/Bomboclat/build/a_pkg/CMakeFiles/edit_cache.dir
+/home/djo/Bomboclat/build/a_pkg/CMakeFiles/rebuild_cache.dir
+/home/djo/Bomboclat/build/a_pkg/CMakeFiles/list_install_components.dir
+/home/djo/Bomboclat/build/a_pkg/CMakeFiles/install.dir
+/home/djo/Bomboclat/build/a_pkg/CMakeFiles/install/local.dir
+/home/djo/Bomboclat/build/a_pkg/CMakeFiles/install/strip.dir

@@ -1,0 +1,16 @@
+/home/djo/Bomboclat/install/a_pkg/lib/a_pkg/monitoring
+/home/djo/Bomboclat/install/a_pkg/share/ament_index/resource_index/package_run_dependencies/a_pkg
+/home/djo/Bomboclat/install/a_pkg/share/ament_index/resource_index/parent_prefix_path/a_pkg
+/home/djo/Bomboclat/install/a_pkg/share/a_pkg/environment/ament_prefix_path.sh
+/home/djo/Bomboclat/install/a_pkg/share/a_pkg/environment/ament_prefix_path.dsv
+/home/djo/Bomboclat/install/a_pkg/share/a_pkg/environment/path.sh
+/home/djo/Bomboclat/install/a_pkg/share/a_pkg/environment/path.dsv
+/home/djo/Bomboclat/install/a_pkg/share/a_pkg/local_setup.bash
+/home/djo/Bomboclat/install/a_pkg/share/a_pkg/local_setup.sh
+/home/djo/Bomboclat/install/a_pkg/share/a_pkg/local_setup.zsh
+/home/djo/Bomboclat/install/a_pkg/share/a_pkg/local_setup.dsv
+/home/djo/Bomboclat/install/a_pkg/share/a_pkg/package.dsv
+/home/djo/Bomboclat/install/a_pkg/share/ament_index/resource_index/packages/a_pkg
+/home/djo/Bomboclat/install/a_pkg/share/a_pkg/cmake/a_pkgConfig.cmake
+/home/djo/Bomboclat/install/a_pkg/share/a_pkg/cmake/a_pkgConfig-version.cmake
+/home/djo/Bomboclat/install/a_pkg/share/a_pkg/package.xml

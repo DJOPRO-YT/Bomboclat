@@ -1,0 +1,29 @@
+[0.030s] Invoking command in '/home/djo/Bomboclat/build/a_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/djo/Bomboclat/build/a_pkg -- -j4 -l4
+[0.204s] [ 50%] [32mBuilding CXX object CMakeFiles/monitoring.dir/src/monitoring.cpp.o[0m
+[3.269s] [01m[K/home/djo/Bomboclat/src/a_pkg/src/monitoring.cpp:[m[K In lambda function:
+[3.270s] [01m[K/home/djo/Bomboclat/src/a_pkg/src/monitoring.cpp:30:60:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kmsg[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[3.270s]    30 |       [this, i]([01;35m[Kstd::shared_ptr<rclcpp::SerializedMessage> msg[m[K){
+[3.270s]       |                 [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~[m[K
+[5.062s] [100%] [32m[1mLinking CXX executable monitoring[0m
+[5.288s] [100%] Built target monitoring
+[5.310s] Invoked command in '/home/djo/Bomboclat/build/a_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/djo/Bomboclat/build/a_pkg -- -j4 -l4
+[5.326s] Invoking command in '/home/djo/Bomboclat/build/a_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/djo/Bomboclat/build/a_pkg
+[5.341s] -- Install configuration: ""
+[5.342s] -- Installing: /home/djo/Bomboclat/install/a_pkg/lib/a_pkg/monitoring
+[5.343s] -- Set non-toolchain portion of runtime path of "/home/djo/Bomboclat/install/a_pkg/lib/a_pkg/monitoring" to ""
+[5.344s] -- Up-to-date: /home/djo/Bomboclat/install/a_pkg/share/ament_index/resource_index/package_run_dependencies/a_pkg
+[5.344s] -- Up-to-date: /home/djo/Bomboclat/install/a_pkg/share/ament_index/resource_index/parent_prefix_path/a_pkg
+[5.344s] -- Up-to-date: /home/djo/Bomboclat/install/a_pkg/share/a_pkg/environment/ament_prefix_path.sh
+[5.345s] -- Up-to-date: /home/djo/Bomboclat/install/a_pkg/share/a_pkg/environment/ament_prefix_path.dsv
+[5.345s] -- Up-to-date: /home/djo/Bomboclat/install/a_pkg/share/a_pkg/environment/path.sh
+[5.345s] -- Up-to-date: /home/djo/Bomboclat/install/a_pkg/share/a_pkg/environment/path.dsv
+[5.345s] -- Up-to-date: /home/djo/Bomboclat/install/a_pkg/share/a_pkg/local_setup.bash
+[5.345s] -- Up-to-date: /home/djo/Bomboclat/install/a_pkg/share/a_pkg/local_setup.sh
+[5.345s] -- Up-to-date: /home/djo/Bomboclat/install/a_pkg/share/a_pkg/local_setup.zsh
+[5.346s] -- Up-to-date: /home/djo/Bomboclat/install/a_pkg/share/a_pkg/local_setup.dsv
+[5.346s] -- Installing: /home/djo/Bomboclat/install/a_pkg/share/a_pkg/package.dsv
+[5.346s] -- Up-to-date: /home/djo/Bomboclat/install/a_pkg/share/ament_index/resource_index/packages/a_pkg
+[5.346s] -- Up-to-date: /home/djo/Bomboclat/install/a_pkg/share/a_pkg/cmake/a_pkgConfig.cmake
+[5.346s] -- Up-to-date: /home/djo/Bomboclat/install/a_pkg/share/a_pkg/cmake/a_pkgConfig-version.cmake
+[5.346s] -- Up-to-date: /home/djo/Bomboclat/install/a_pkg/share/a_pkg/package.xml
+[5.348s] Invoked command in '/home/djo/Bomboclat/build/a_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/djo/Bomboclat/build/a_pkg
